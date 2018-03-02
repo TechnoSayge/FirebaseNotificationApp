@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423856663415",
+    "firebase_url": "https://fir-notification-a1453.firebaseio.com",
+    "project_id": "fir-notification-a1453",
+    "storage_bucket": "fir-notification-a1453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423856663415:android:6fff634fb8f9d52b",
+        "android_client_info": {
+          "package_name": "com.example.android.sayge.firebasenotificationexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423856663415-br9tet877pvpcnab2lubej0mr1onphk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVIaGXxz7P0fLgoFwGrvdcGXkE3fzoSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
